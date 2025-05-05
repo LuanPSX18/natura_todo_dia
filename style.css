@@ -1,0 +1,39 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #F4EEEC;
+}
+
+.logo {
+    height: 400px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.header-titulo {
+    padding-bottom: 20px;
+}
+
+.produto-card {
+    border: 2px solid chocolate;
+    height: 300px;
+    width: 300px;
+    background-color: darkgray;
+}
+
+.produtos {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contato {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer {
+    text-align: center;
+    background-color: #F4EEEC;
+    padding: 30px;
+}
